@@ -1,0 +1,6 @@
+stanford-corenlp-4.5.9
+.ipynb_checkpoints
+__pycache__
+.idea
+*.pt
+提交证明*.png
