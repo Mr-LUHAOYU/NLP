@@ -3,5 +3,5 @@ stanford-corenlp-4.5.9
 __pycache__
 .idea
 *.pt
-提交证明*.png
 *.db
+*-master
